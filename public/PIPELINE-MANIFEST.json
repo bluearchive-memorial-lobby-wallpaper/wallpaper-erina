@@ -1,0 +1,243 @@
+{
+  "schemaVersion": 1,
+  "kind": "pipeline-binary-package",
+  "immutable": true,
+  "variantId": "default",
+  "canonicalId": "erina-default",
+  "studentId": "erina",
+  "runId": "run-000000000111",
+  "runInfo": {
+    "alias": "maintenance-artifact-reconcile",
+    "stages": [
+      "preflight",
+      "build",
+      "package-check",
+      "artifact-reconcile"
+    ]
+  },
+  "versionTag": "v1.0.0",
+  "projectId": "wallpaper-erina",
+  "package": {
+    "name": "erina-wallpaper",
+    "version": "1.0.0"
+  },
+  "files": [
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_1_1.ogg",
+      "sha256": "9084bcde980840ebb4d0b9353fd74509e6b50da828270be4886c1fb40a895008",
+      "size": 33913
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_1_2.ogg",
+      "sha256": "95af7d4423f841f88d7abd892f00d89957b212413cddd496fb4bbd693a9e8e50",
+      "size": 32489
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_1_3.ogg",
+      "sha256": "5ffcc4584a6b8dd5ca5b1d5f98c564b679a81b0d0f18d32e97dff84ab1001c02",
+      "size": 31491
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_2_1.ogg",
+      "sha256": "713af4d0991cb7c3aacf6037b6632204eeb86436f507ac1cebc7ea302b3624ab",
+      "size": 55570
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_2_2.ogg",
+      "sha256": "a48857fca98d94c20ebe228066ee0e5bc53e18b09092280fdf316ff684b5614c",
+      "size": 48931
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_2_3.ogg",
+      "sha256": "7cc03d8cceca9282e90bafd4d0348d824a0c5812ca6724da06ef442c60a8a7f7",
+      "size": 41926
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_3_1.ogg",
+      "sha256": "5649c13f4ffa5f6ad3593f5a7b7e54861462821b4986e936b3f40f4266bc2d51",
+      "size": 34149
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_3_2.ogg",
+      "sha256": "251abe692437da350e0cd0f05d35600f0d3c1f330b48c98c4ac7f3aa1c16b590",
+      "size": 48093
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_3_3.ogg",
+      "sha256": "bd2fe1d24f10ef9446db490d4e6feda397e9f155a93bb0d8154222875446dbb6",
+      "size": 41284
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_4_1.ogg",
+      "sha256": "d1f4bf4843d0c94cf245477534840eaf4210d5a2a595070b9d5b251acc85f2c9",
+      "size": 59782
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_4_2.ogg",
+      "sha256": "3cfae9b48b210b263e157d713841c7b091d86d827d89688f92b235c58c503f00",
+      "size": 49295
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_4_3.ogg",
+      "sha256": "1cd68f111e005f448a439a0d57918beef6cd4c94aec2d5b72ef0e1518ed72e71",
+      "size": 27605
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_5_1.ogg",
+      "sha256": "98480b970861add1b54209667f4825c5d7bb483955561b7a32108800777e7fc1",
+      "size": 39162
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_5_2.ogg",
+      "sha256": "28edb5e5ce2225a8b9e02d2d0b5e51ef45a39676699cdffaca44fe4c41ef8ee3",
+      "size": 47205
+    },
+    {
+      "path": "assets/erina/audio/ja/ch0321_memoriallobby_5_3.ogg",
+      "sha256": "41899da7f7c318d33eff3864a5a21ab6306893400031be2680e440278b9c925e",
+      "size": 22749
+    },
+    {
+      "path": "assets/erina/bgm/my-character-bgm.flac",
+      "sha256": "718c0a6120105225cdd11c6d860fd5f105b8a9fd03a30b85876abbaed4e3aef2",
+      "size": 1489713
+    },
+    {
+      "path": "assets/erina/model-4k/CH0321_home_2.png",
+      "sha256": "77dd10bf9afd187d85d3c705934b7ec52fe4dde9338cbc6784c8237b7303f29f",
+      "size": 328626
+    },
+    {
+      "path": "assets/erina/model-4k/CH0321_home_3.png",
+      "sha256": "d96abf975ebb58086450107dae1ad3f8a0b9bfa2b61075a846046733400e33cd",
+      "size": 1609706
+    },
+    {
+      "path": "assets/erina/model-4k/CH0321_home_4.png",
+      "sha256": "41dc5947942c72376ea670d32532de33cbe73bf42e9ce594909e3ca351ab1ec9",
+      "size": 1506163
+    },
+    {
+      "path": "assets/erina/model-4k/CH0321_home.png",
+      "sha256": "91471c4176f18516761b9843be7113cd76a366966a8b3c13b31f5e4e3b621837",
+      "size": 2633952
+    },
+    {
+      "path": "assets/erina/model-4k/my-character.atlas",
+      "sha256": "ffb97f475b59e3f43a147abe39c81eee5e6e120d8e9be46c486e0c8d3a4cbeab",
+      "size": 15532
+    },
+    {
+      "path": "assets/erina/model-4k/my-character.skel",
+      "sha256": "901a994862173bc4c542e26d64adb5bdd847f0635acbe2db67e40761dda8ed93",
+      "size": 1270557
+    },
+    {
+      "path": "assets/erina/model-8k/CH0321_home_2.png",
+      "sha256": "77dd10bf9afd187d85d3c705934b7ec52fe4dde9338cbc6784c8237b7303f29f",
+      "size": 328626
+    },
+    {
+      "path": "assets/erina/model-8k/CH0321_home_3.png",
+      "sha256": "d96abf975ebb58086450107dae1ad3f8a0b9bfa2b61075a846046733400e33cd",
+      "size": 1609706
+    },
+    {
+      "path": "assets/erina/model-8k/CH0321_home_4.png",
+      "sha256": "41dc5947942c72376ea670d32532de33cbe73bf42e9ce594909e3ca351ab1ec9",
+      "size": 1506163
+    },
+    {
+      "path": "assets/erina/model-8k/CH0321_home.png",
+      "sha256": "91471c4176f18516761b9843be7113cd76a366966a8b3c13b31f5e4e3b621837",
+      "size": 2633952
+    },
+    {
+      "path": "assets/erina/model-8k/my-character.atlas",
+      "sha256": "ffb97f475b59e3f43a147abe39c81eee5e6e120d8e9be46c486e0c8d3a4cbeab",
+      "size": 15532
+    },
+    {
+      "path": "assets/erina/model-8k/my-character.skel",
+      "sha256": "901a994862173bc4c542e26d64adb5bdd847f0635acbe2db67e40761dda8ed93",
+      "size": 1270557
+    },
+    {
+      "path": "assets/erina/model/CH0321_home_2.png",
+      "sha256": "77dd10bf9afd187d85d3c705934b7ec52fe4dde9338cbc6784c8237b7303f29f",
+      "size": 328626
+    },
+    {
+      "path": "assets/erina/model/CH0321_home_3.png",
+      "sha256": "d96abf975ebb58086450107dae1ad3f8a0b9bfa2b61075a846046733400e33cd",
+      "size": 1609706
+    },
+    {
+      "path": "assets/erina/model/CH0321_home_4.png",
+      "sha256": "41dc5947942c72376ea670d32532de33cbe73bf42e9ce594909e3ca351ab1ec9",
+      "size": 1506163
+    },
+    {
+      "path": "assets/erina/model/CH0321_home.png",
+      "sha256": "91471c4176f18516761b9843be7113cd76a366966a8b3c13b31f5e4e3b621837",
+      "size": 2633952
+    },
+    {
+      "path": "assets/erina/model/my-character.atlas",
+      "sha256": "ffb97f475b59e3f43a147abe39c81eee5e6e120d8e9be46c486e0c8d3a4cbeab",
+      "size": 15532
+    },
+    {
+      "path": "assets/erina/model/my-character.skel",
+      "sha256": "901a994862173bc4c542e26d64adb5bdd847f0635acbe2db67e40761dda8ed93",
+      "size": 1270557
+    },
+    {
+      "path": "assets/index-Cg1uc53D.js",
+      "sha256": "bbcbdbb1e2c6c01bc6ae994942142f826933084e675cf89f90dac4c7998dacc7",
+      "size": 152593
+    },
+    {
+      "path": "assets/index-Dvrd4XH3.css",
+      "sha256": "7edd305a4bec7d64c5dd9193116f29e99151cbc63cf52bd0f2ecf1be9e02bcf6",
+      "size": 11894
+    },
+    {
+      "path": "index.html",
+      "sha256": "44979483e49cf92161181e5b202fc89c01430f0456ee346c6b01ceb2920f360d",
+      "size": 581
+    },
+    {
+      "path": "logging-bootstrap.js",
+      "sha256": "241c98017502d02e3f2dfc874d3bd57a7899d4da6a45c21090bef3953cc98eef",
+      "size": 7693
+    },
+    {
+      "path": "OFFLINE-README.txt",
+      "sha256": "8124dd036137d73ca4b13d9d9e64199ce6b8b1e67be18971cc52fe0d20284d7c",
+      "size": 1176
+    },
+    {
+      "path": "preview.gif",
+      "sha256": "c46cc96cd2c1e4e807aa61dbb30f4016544fbb473be94ece4996d84aaba85d7e",
+      "size": 969329
+    },
+    {
+      "path": "project.json",
+      "sha256": "079fc7bb51f46f8f114ece4571cb6f1b73fc9b55158313d12af2631dac34221b",
+      "size": 16439
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "sha256": "aa6382fc728b8ecdf735dc4c5945267e69e3d404320ba873eb7ed58c6d035db1",
+      "size": 1507
+    },
+    {
+      "path": "vendor/spine-webgl-4.2.js",
+      "sha256": "faccf252486de234c69a045aa6024b6688ded578eff09103607adfaedd7752b6",
+      "size": 554544
+    }
+  ],
+  "contentDigest": "1d5deab0c02098ba57fb50255c28a2bb8fb59d1e225e4c2920f645a3e347e404",
+  "manifestDigest": "a92840f99c1f2c638a46cbbc1a41107ab24c2152b440fc6aa4ae6f3bd851bb6c"
+}
